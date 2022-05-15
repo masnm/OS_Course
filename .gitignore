@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ctags generated Tag files
+tags
+*/tags
+
+# input files
+*in1
+*in2
+*in3
+*in4
+*in5
+*in6
